@@ -1,4 +1,4 @@
->?php
+<?php
 echo "hola mundo";
 echo "como estan?";
 $a = 1
